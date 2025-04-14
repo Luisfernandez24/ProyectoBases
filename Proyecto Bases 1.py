@@ -3,7 +3,6 @@ from psycopg2.extras import RealDictCursor
 import random
 import logging
 import pygame
-import sys
 
 # Configuración de logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
